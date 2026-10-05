@@ -5,3 +5,5 @@ I live in Belgium
 My hobbies are gaming, gym and working on cars
 
 The difference between Git and Github is Git is local and GitHub is remote
+
+I understand how this works.
