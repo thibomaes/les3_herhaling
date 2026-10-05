@@ -1,3 +1,1 @@
-# Tools
-
-Favourite tool: GitHub
+Favourite tool: Git en GitHub
